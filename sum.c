@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main() {
-    int num1, num2, sum // defining the type
+    int num1, num2, sum; // defining the type
     printf("enter number 1 ");
     scanf("%d", &num1); // inputting the number
     printf("enter number 2 ");
