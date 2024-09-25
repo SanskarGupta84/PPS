@@ -1,7 +1,7 @@
 #include <stdio.h>
-#define PI 3.14159
 
 int main() {
+    const float PI=3.14
     float radius, area;
 
     // Input the radius of the circle
